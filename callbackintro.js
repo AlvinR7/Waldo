@@ -12,30 +12,3 @@ function actionWhenFound(name, i) {
 }
 
 findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
-
-// found.forEach(actionWhenFound)
-
-
-
-
-
-
-
-// var names = ["Alice", "Bob", "Waldo", "Winston"]
-
-// var printName = function(name, i) {
-//   console.log(name, ' at ', i);
-// }
-
-// names.forEach(printName)
-
-// arr.forEach(found())
-
-
-// var names = ['Khurram', 'Don', 'Joel', 'David', 'etc']
-
-// var printName = function(name, i) {
-//   console.log(name, ' at ', i);
-// }
-
-// names.forEach(printName)
